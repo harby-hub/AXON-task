@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "composite": true,
+        "skipLibCheck": true,
+        "allowSyntheticDefaultImports": true
+    },
+    "include": [
+        "resources/**/*.ts",
+        "resources/**/*.d.ts",
+        "resources/**/*.tsx",
+        "resources/**/*.vue",
+        "vite.config.ts"
+    ]
+}
